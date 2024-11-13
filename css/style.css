@@ -499,10 +499,10 @@ body.dark #moon{
  }
  .hero-image img{
      right: 100px;
-     width: 280px;
+     width: 500px;
  }
  .circle, .circle img{
-     width: 450px;
+     width: 500px;
  }
  @keyframes circleZoom {
      50%{
